@@ -32,7 +32,7 @@ public class Main {
         curso1.listaDeEstudiantes().add(estudiante3);
         curso1.listaDeEstudiantes().add(estudiante4);
 
-        System.out.println(estudiantes );
+        System.out.println(curso1);
 
     }
 }

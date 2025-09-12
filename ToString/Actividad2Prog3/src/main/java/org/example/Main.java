@@ -15,8 +15,10 @@ public class Main {
 
         List<Estudiante> estudiantes = new ArrayList<>();
 
-
-        
+        estudiantes.add(estudiante1);
+        estudiantes.add(estudiante2);
+        estudiantes.add(estudiante3);
+        estudiantes.add(estudiante4);
         System.out.println(estudiantes );
 
     }
